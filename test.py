@@ -6,5 +6,6 @@ print(person.full_name)
 print(person.gender)
 print(person.country)
 print(person.address)
+
 # while person.country != "!Andhra Pradesh":
 #     print(person.country)
